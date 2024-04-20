@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TBmobile.FilePage">
+    <ContentPage.Content>
+        <ScrollView Background="#b8bab6" Padding="5">
+            <StackLayout>
+                <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="Black"/>
+                <StackLayout Background="white">
+                    <Label Text="files"/>
+                    <Label Text="files"/>
+                    <Label Text="files"/>
+                    <Label Text="files"/>
+                </StackLayout>
+                <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="Black"/>
+                <StackLayout Background="white">
+                    <Label Text="files"/>
+                    <Label Text="files"/>
+                    <Label Text="files"/>
+                    <Label Text="files"/>
+                </StackLayout>
+                <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="Black"/>
+                <StackLayout Background="white">
+                    <Label Text="files"/>
+                    <Label Text="files"/>
+                    <Label Text="files"/>
+                    <Label Text="files"/>
+                </StackLayout>
+                <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="Black"/>
+                <StackLayout Background="white">
+                    <Label Text="files"/>
+                    <Label Text="files"/>
+                    <Label Text="files"/>
+                    <Label Text="files"/>
+                </StackLayout>
+                <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="Black"/>
+                <StackLayout Background="white">
+                    <Label Text="files"/>
+                    <Label Text="files"/>
+                    <Label Text="files"/>
+                    <Label Text="files"/>
+                </StackLayout>
+                <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="Black"/>
+                <StackLayout Background="white">
+                    <Label Text="files"/>
+                    <Label Text="files"/>
+                    <Label Text="files"/>
+                    <Label Text="files"/>
+                </StackLayout>
+                <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="Black"/>
+                <StackLayout Background="white">
+                    <Label Text="files"/>
+                    <Label Text="files"/>
+                    <Label Text="files"/>
+                    <Label Text="files"/>
+                </StackLayout>
+                <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="Black"/>
+                <StackLayout Background="white">
+                    <Label Text="files"/>
+                    <Label Text="files"/>
+                    <Label Text="files"/>
+                    <Label Text="files"/>
+                </StackLayout>
+                <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="Black"/>
+                <StackLayout Background="white">
+                    <Label Text="files"/>
+                    <Label Text="files"/>
+                    <Label Text="files"/>
+                    <Label Text="files"/>
+                </StackLayout>
+                <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="Black"/>
+                <StackLayout Background="white">
+                    <Label Text="files"/>
+                    <Label Text="files"/>
+                    <Label Text="files"/>
+                    <Label Text="files"/>
+                </StackLayout>
+
+            </StackLayout>
+
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

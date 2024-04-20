@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TBmobile.TextPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <ScrollView>
+                <StackLayout Background="#b8bab6" Padding="5">
+                    <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="Black"/>
+                    <StackLayout Background="white">
+                        <Label Text="text"/>
+                        <Label Text="text"/>
+                        <Label Text="text"/>
+                        <Label Text="text"/>
+                    </StackLayout>
+                    <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="Black"/>
+                    <StackLayout Background="white">
+                        <Label Text="text"/>
+                        <Label Text="text"/>
+                        <Label Text="text"/>
+                        <Label Text="text"/>
+                    </StackLayout>
+                    <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="Black"/>
+                    <StackLayout Background="white">
+                        <Label Text="text"/>
+                        <Label Text="text"/>
+                        <Label Text="text"/>
+                        <Label Text="text"/>
+                    </StackLayout>
+                    <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="Black"/>
+                    <StackLayout Background="white">
+                        <Label Text="text"/>
+                        <Label Text="text"/>
+                        <Label Text="text"/>
+                        <Label Text="text"/>
+                    </StackLayout>
+                    <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="Black"/>
+                    <StackLayout Background="white">
+                        <Label Text="text"/>
+                        <Label Text="text"/>
+                        <Label Text="text"/>
+                        <Label Text="text"/>
+                    </StackLayout>
+                    <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="Black"/>
+                    <StackLayout Background="white">
+                        <Label Text="text"/>
+                        <Label Text="text"/>
+                        <Label Text="text"/>
+                        <Label Text="text"/>
+                    </StackLayout>
+                    <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="Black"/>
+                    <StackLayout Background="white">
+                        <Label Text="text"/>
+                        <Label Text="text"/>
+                        <Label Text="text"/>
+                        <Label Text="text"/>
+                    </StackLayout>
+                    <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="Black"/>
+                    <StackLayout Background="white">
+                        <Label Text="text"/>
+                        <Label Text="text"/>
+                        <Label Text="text"/>
+                        <Label Text="text"/>
+                    </StackLayout>
+                    <StackLayout/>
+                </StackLayout>
+            </ScrollView>
+
+            <StackLayout Orientation="Horizontal" BackgroundColor="#f0f0f0" Padding="5">
+                <Entry Placeholder="Enter your message" HorizontalOptions="FillAndExpand"/>
+                <Button Text="Send" HorizontalOptions="End"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
