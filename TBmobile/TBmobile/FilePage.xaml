@@ -3,81 +3,85 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="TBmobile.FilePage">
     <ContentPage.Content>
-        <ScrollView Background="#b8bab6" Padding="5">
-            <StackLayout>
-                <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="Black"/>
-                <StackLayout Background="white">
-                    <Label Text="files"/>
-                    <Label Text="files"/>
-                    <Label Text="files"/>
-                    <Label Text="files"/>
+        <StackLayout Background="#1e1e1e">
+            <ScrollView Background="#1e1e1e" Padding="5">
+                <StackLayout>
+                    <!--заглушка-->
+                    <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="white"/>
+                    <StackLayout Background="white">
+                        <Label Text="files"/>
+                        <Label Text="files"/>
+                        <Label Text="files"/>
+                        <Label Text="files"/>
+                    </StackLayout>
+                    <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="white"/>
+                    <StackLayout Background="white">
+                        <Label Text="files"/>
+                        <Label Text="files"/>
+                        <Label Text="files"/>
+                        <Label Text="files"/>
+                    </StackLayout>
+                    <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="white"/>
+                    <StackLayout Background="white">
+                        <Label Text="files"/>
+                        <Label Text="files"/>
+                        <Label Text="files"/>
+                        <Label Text="files"/>
+                    </StackLayout>
+                    <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="white"/>
+                    <StackLayout Background="white">
+                        <Label Text="files"/>
+                        <Label Text="files"/>
+                        <Label Text="files"/>
+                        <Label Text="files"/>
+                    </StackLayout>
+                    <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="white"/>
+                    <StackLayout Background="white">
+                        <Label Text="files"/>
+                        <Label Text="files"/>
+                        <Label Text="files"/>
+                        <Label Text="files"/>
+                    </StackLayout>
+                    <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="white"/>
+                    <StackLayout Background="white">
+                        <Label Text="files"/>
+                        <Label Text="files"/>
+                        <Label Text="files"/>
+                        <Label Text="files"/>
+                    </StackLayout>
+                    <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="white"/>
+                    <StackLayout Background="white">
+                        <Label Text="files"/>
+                        <Label Text="files"/>
+                        <Label Text="files"/>
+                        <Label Text="files"/>
+                    </StackLayout>
+                    <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="white"/>
+                    <StackLayout Background="white">
+                        <Label Text="files"/>
+                        <Label Text="files"/>
+                        <Label Text="files"/>
+                        <Label Text="files"/>
+                    </StackLayout>
+                    <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="white"/>
+                    <StackLayout Background="white">
+                        <Label Text="files"/>
+                        <Label Text="files"/>
+                        <Label Text="files"/>
+                        <Label Text="files"/>
+                    </StackLayout>
+                    <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="white"/>
+                    <StackLayout Background="white">
+                        <Label Text="files"/>
+                        <Label Text="files"/>
+                        <Label Text="files"/>
+                        <Label Text="files"/>
+                    </StackLayout>
                 </StackLayout>
-                <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="Black"/>
-                <StackLayout Background="white">
-                    <Label Text="files"/>
-                    <Label Text="files"/>
-                    <Label Text="files"/>
-                    <Label Text="files"/>
-                </StackLayout>
-                <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="Black"/>
-                <StackLayout Background="white">
-                    <Label Text="files"/>
-                    <Label Text="files"/>
-                    <Label Text="files"/>
-                    <Label Text="files"/>
-                </StackLayout>
-                <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="Black"/>
-                <StackLayout Background="white">
-                    <Label Text="files"/>
-                    <Label Text="files"/>
-                    <Label Text="files"/>
-                    <Label Text="files"/>
-                </StackLayout>
-                <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="Black"/>
-                <StackLayout Background="white">
-                    <Label Text="files"/>
-                    <Label Text="files"/>
-                    <Label Text="files"/>
-                    <Label Text="files"/>
-                </StackLayout>
-                <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="Black"/>
-                <StackLayout Background="white">
-                    <Label Text="files"/>
-                    <Label Text="files"/>
-                    <Label Text="files"/>
-                    <Label Text="files"/>
-                </StackLayout>
-                <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="Black"/>
-                <StackLayout Background="white">
-                    <Label Text="files"/>
-                    <Label Text="files"/>
-                    <Label Text="files"/>
-                    <Label Text="files"/>
-                </StackLayout>
-                <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="Black"/>
-                <StackLayout Background="white">
-                    <Label Text="files"/>
-                    <Label Text="files"/>
-                    <Label Text="files"/>
-                    <Label Text="files"/>
-                </StackLayout>
-                <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="Black"/>
-                <StackLayout Background="white">
-                    <Label Text="files"/>
-                    <Label Text="files"/>
-                    <Label Text="files"/>
-                    <Label Text="files"/>
-                </StackLayout>
-                <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="Black"/>
-                <StackLayout Background="white">
-                    <Label Text="files"/>
-                    <Label Text="files"/>
-                    <Label Text="files"/>
-                    <Label Text="files"/>
-                </StackLayout>
-
+            </ScrollView>
+            <StackLayout BackgroundColor="#FF383838" Padding="5">
+                <Button Clicked="ButtonAddFile" Text="прикрепить файл"  BackgroundColor="#FF0070B5"/>
             </StackLayout>
-
-        </ScrollView>
+        </StackLayout>
     </ContentPage.Content>
 </ContentPage>

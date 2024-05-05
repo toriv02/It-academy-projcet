@@ -13,6 +13,7 @@ namespace TBmobile
         public MainPage()
         {
             InitializeComponent();
+            NavigationPage.SetHasNavigationBar(this, false);
         }
         async void Enter (object sender, EventArgs e)
         {

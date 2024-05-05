@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TBmobile")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ee30fda6af3f57b78a881136b3342ccef78658d")]
 [assembly: System.Reflection.AssemblyProductAttribute("TBmobile")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TBmobile")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

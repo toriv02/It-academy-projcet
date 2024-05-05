@@ -3,59 +3,60 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="TBmobile.TextPage">
     <ContentPage.Content>
-        <StackLayout>
+        <StackLayout BackgroundColor="#FF383838">
             <ScrollView>
-                <StackLayout Background="#b8bab6" Padding="5">
-                    <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="Black"/>
+                <StackLayout BackgroundColor="#1e1e1e" Padding="5">
+                    <!--заглушка-->
+                    <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="White"/>
                     <StackLayout Background="white">
                         <Label Text="text"/>
                         <Label Text="text"/>
                         <Label Text="text"/>
                         <Label Text="text"/>
                     </StackLayout>
-                    <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="Black"/>
+                    <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="White"/>
                     <StackLayout Background="white">
                         <Label Text="text"/>
                         <Label Text="text"/>
                         <Label Text="text"/>
                         <Label Text="text"/>
                     </StackLayout>
-                    <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="Black"/>
+                    <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="White"/>
                     <StackLayout Background="white">
                         <Label Text="text"/>
                         <Label Text="text"/>
                         <Label Text="text"/>
                         <Label Text="text"/>
                     </StackLayout>
-                    <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="Black"/>
+                    <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="White"/>
                     <StackLayout Background="white">
                         <Label Text="text"/>
                         <Label Text="text"/>
                         <Label Text="text"/>
                         <Label Text="text"/>
                     </StackLayout>
-                    <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="Black"/>
+                    <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="White"/>
                     <StackLayout Background="white">
                         <Label Text="text"/>
                         <Label Text="text"/>
                         <Label Text="text"/>
                         <Label Text="text"/>
                     </StackLayout>
-                    <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="Black"/>
+                    <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="White"/>
                     <StackLayout Background="white">
                         <Label Text="text"/>
                         <Label Text="text"/>
                         <Label Text="text"/>
                         <Label Text="text"/>
                     </StackLayout>
-                    <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="Black"/>
+                    <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="White"/>
                     <StackLayout Background="white">
                         <Label Text="text"/>
                         <Label Text="text"/>
                         <Label Text="text"/>
                         <Label Text="text"/>
                     </StackLayout>
-                    <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="Black"/>
+                    <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="White"/>
                     <StackLayout Background="white">
                         <Label Text="text"/>
                         <Label Text="text"/>
@@ -65,10 +66,9 @@
                     <StackLayout/>
                 </StackLayout>
             </ScrollView>
-
-            <StackLayout Orientation="Horizontal" BackgroundColor="#f0f0f0" Padding="5">
-                <Entry Placeholder="Enter your message" HorizontalOptions="FillAndExpand"/>
-                <Button Text="Send" HorizontalOptions="End"/>
+            <StackLayout Orientation="Horizontal" BackgroundColor="#FF383838" Padding="5">
+                <Entry Placeholder="Enter your message" HorizontalOptions="FillAndExpand" PlaceholderColor="White" TextColor="White"/>
+                <Button Text="Отпраить" HorizontalOptions="End" BackgroundColor="#FF0070B5"/>
             </StackLayout>
         </StackLayout>
     </ContentPage.Content>

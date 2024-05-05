@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\TBmobile\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{95A4F7E2-3736-469B-AE33-1F3C47FA6290}|TBmobile\\TBmobile\\TBmobile.csproj|c:\\users\\admin\\desktop\\tbmobile\\tbmobile\\tbmobile\\bottommenu.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{95A4F7E2-3736-469B-AE33-1F3C47FA6290}|TBmobile\\TBmobile\\TBmobile.csproj|solutionrelative:tbmobile\\tbmobile\\bottommenu.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95A4F7E2-3736-469B-AE33-1F3C47FA6290}|TBmobile\\TBmobile\\TBmobile.csproj|c:\\users\\admin\\desktop\\tbmobile\\tbmobile\\tbmobile\\bottommenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95A4F7E2-3736-469B-AE33-1F3C47FA6290}|TBmobile\\TBmobile\\TBmobile.csproj|solutionrelative:tbmobile\\tbmobile\\bottommenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{95A4F7E2-3736-469B-AE33-1F3C47FA6290}|TBmobile\\TBmobile\\TBmobile.csproj|c:\\users\\admin\\desktop\\tbmobile\\tbmobile\\tbmobile\\picturepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
       "RelativeMoniker": "D:0:0:{95A4F7E2-3736-469B-AE33-1F3C47FA6290}|TBmobile\\TBmobile\\TBmobile.csproj|solutionrelative:tbmobile\\tbmobile\\picturepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{95A4F7E2-3736-469B-AE33-1F3C47FA6290}|TBmobile\\TBmobile\\TBmobile.csproj|c:\\users\\admin\\desktop\\tbmobile\\tbmobile\\tbmobile\\filepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
       "RelativeMoniker": "D:0:0:{95A4F7E2-3736-469B-AE33-1F3C47FA6290}|TBmobile\\TBmobile\\TBmobile.csproj|solutionrelative:tbmobile\\tbmobile\\filepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A4F7E2-3736-469B-AE33-1F3C47FA6290}|TBmobile\\TBmobile\\TBmobile.csproj|c:\\users\\admin\\desktop\\tbmobile\\tbmobile\\tbmobile\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{95A4F7E2-3736-469B-AE33-1F3C47FA6290}|TBmobile\\TBmobile\\TBmobile.csproj|solutionrelative:tbmobile\\tbmobile\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A4F7E2-3736-469B-AE33-1F3C47FA6290}|TBmobile\\TBmobile\\TBmobile.csproj|c:\\users\\admin\\desktop\\tbmobile\\tbmobile\\tbmobile\\textpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{95A4F7E2-3736-469B-AE33-1F3C47FA6290}|TBmobile\\TBmobile\\TBmobile.csproj|solutionrelative:tbmobile\\tbmobile\\textpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A4F7E2-3736-469B-AE33-1F3C47FA6290}|TBmobile\\TBmobile\\TBmobile.csproj|C:\\Users\\Admin\\Desktop\\TBmobile\\tbmobile\\tbmobile\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A4F7E2-3736-469B-AE33-1F3C47FA6290}|TBmobile\\TBmobile\\TBmobile.csproj|solutionrelative:tbmobile\\tbmobile\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,54 +38,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PicturePage.xaml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\TBmobile\\TBmobile\\TBmobile\\PicturePage.xaml",
-              "RelativeDocumentMoniker": "TBmobile\\TBmobile\\PicturePage.xaml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\TBmobile\\TBmobile\\TBmobile\\PicturePage.xaml",
-              "RelativeToolTip": "TBmobile\\TBmobile\\PicturePage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-20T05:08:56.133Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "FilePage.xaml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\TBmobile\\TBmobile\\TBmobile\\FilePage.xaml",
               "RelativeDocumentMoniker": "TBmobile\\TBmobile\\FilePage.xaml",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\TBmobile\\TBmobile\\TBmobile\\FilePage.xaml",
               "RelativeToolTip": "TBmobile\\TBmobile\\FilePage.xaml",
-              "ViewState": "AQIAADYAAAAAAAAAAAAAAE8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-20T05:08:40.582Z",
+              "WhenOpened": "2024-05-05T04:21:45.317Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BottomMenu.xaml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\TBmobile\\TBmobile\\TBmobile\\BottomMenu.xaml",
-              "RelativeDocumentMoniker": "TBmobile\\TBmobile\\BottomMenu.xaml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\TBmobile\\TBmobile\\TBmobile\\BottomMenu.xaml",
-              "RelativeToolTip": "TBmobile\\TBmobile\\BottomMenu.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Title": "PicturePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\TBmobile\\TBmobile\\TBmobile\\PicturePage.xaml",
+              "RelativeDocumentMoniker": "TBmobile\\TBmobile\\PicturePage.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\TBmobile\\TBmobile\\TBmobile\\PicturePage.xaml",
+              "RelativeToolTip": "TBmobile\\TBmobile\\PicturePage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-20T05:06:57.455Z",
+              "WhenOpened": "2024-05-05T04:15:37.373Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BottomMenu.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\TBmobile\\TBmobile\\TBmobile\\BottomMenu.xaml.cs",
-              "RelativeDocumentMoniker": "TBmobile\\TBmobile\\BottomMenu.xaml.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\TBmobile\\TBmobile\\TBmobile\\BottomMenu.xaml.cs",
-              "RelativeToolTip": "TBmobile\\TBmobile\\BottomMenu.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\TBmobile\\TBmobile\\TBmobile\\MainPage.xaml",
+              "RelativeDocumentMoniker": "TBmobile\\TBmobile\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\TBmobile\\TBmobile\\TBmobile\\MainPage.xaml",
+              "RelativeToolTip": "TBmobile\\TBmobile\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-05T04:10:32.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TextPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\TBmobile\\TBmobile\\TBmobile\\TextPage.xaml",
+              "RelativeDocumentMoniker": "TBmobile\\TBmobile\\TextPage.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\TBmobile\\TBmobile\\TBmobile\\TextPage.xaml",
+              "RelativeToolTip": "TBmobile\\TBmobile\\TextPage.xaml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAD8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-05T03:58:28.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\TBmobile\\TBmobile\\TBmobile\\App.xaml.cs",
+              "RelativeDocumentMoniker": "TBmobile\\TBmobile\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\TBmobile\\TBmobile\\TBmobile\\App.xaml.cs",
+              "RelativeToolTip": "TBmobile\\TBmobile\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T04:26:11.435Z",
+              "WhenOpened": "2024-04-28T08:06:35.64Z",
               "EditorCaption": ""
             }
           ]

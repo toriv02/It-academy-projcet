@@ -15,6 +15,10 @@ namespace TBmobile
         public TabbedPage1()
         {
             InitializeComponent();
+            // Получаем навигационную панель текущей страницы
+            NavigationPage navPage = Application.Current.MainPage as NavigationPage;
+            // Устанавливаем цвет фона навигационной панели
+            navPage.BarBackgroundColor = Color.FromHex("#FF383838");
         }
     }
 }

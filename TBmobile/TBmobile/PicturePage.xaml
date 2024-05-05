@@ -3,79 +3,85 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="TBmobile.PicturePage">
     <ContentPage.Content>
-        <ScrollView Background="#b8bab6" Padding="5">
-            <StackLayout>
-                <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="Black"/>
-                <StackLayout Background="white">
-                    <Label Text="pictures"/>
-                    <Label Text="pictures"/>
-                    <Label Text="pictures"/>
-                    <Label Text="pictures"/>
+        <StackLayout Background="#1e1e1e">
+            <ScrollView Background="#1e1e1e" Padding="5">
+                <StackLayout>
+                    <!--заглушка-->
+                    <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="White"/>
+                    <StackLayout Background="white">
+                        <Label Text="pictures"/>
+                        <Label Text="pictures"/>
+                        <Label Text="pictures"/>
+                        <Label Text="pictures"/>
+                    </StackLayout>
+                    <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="White"/>
+                    <StackLayout Background="white">
+                        <Label Text="pictures"/>
+                        <Label Text="pictures"/>
+                        <Label Text="pictures"/>
+                        <Label Text="pictures"/>
+                    </StackLayout>
+                    <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="White"/>
+                    <StackLayout Background="white">
+                        <Label Text="pictures"/>
+                        <Label Text="pictures"/>
+                        <Label Text="pictures"/>
+                        <Label Text="pictures"/>
+                    </StackLayout>
+                    <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="White"/>
+                    <StackLayout Background="white">
+                        <Label Text="pictures"/>
+                        <Label Text="pictures"/>
+                        <Label Text="pictures"/>
+                        <Label Text="pictures"/>
+                    </StackLayout>
+                    <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="White"/>
+                    <StackLayout Background="white">
+                        <Label Text="pictures"/>
+                        <Label Text="pictures"/>
+                        <Label Text="pictures"/>
+                        <Label Text="pictures"/>
+                    </StackLayout>
+                    <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="White"/>
+                    <StackLayout Background="white">
+                        <Label Text="pictures"/>
+                        <Label Text="pictures"/>
+                        <Label Text="pictures"/>
+                        <Label Text="pictures"/>
+                    </StackLayout>
+                    <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="White"/>
+                    <StackLayout Background="white">
+                        <Label Text="pictures"/>
+                        <Label Text="pictures"/>
+                        <Label Text="pictures"/>
+                        <Label Text="pictures"/>
+                    </StackLayout>
+                    <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="White"/>
+                    <StackLayout Background="white">
+                        <Label Text="pictures"/>
+                        <Label Text="pictures"/>
+                        <Label Text="pictures"/>
+                        <Label Text="pictures"/>
+                    </StackLayout>
+                    <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="White"/>
+                    <StackLayout Background="white">
+                        <Label Text="pictures"/>
+                        <Label Text="pictures"/>
+                        <Label Text="pictures"/>
+                        <Label Text="pictures"/>
+                    </StackLayout>
+                    <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="White"/>
+                    <StackLayout Background="white">
+                        <Label Text="pictures"/>
+                        <Label Text="pictures"/>
+                        <Label Text="pictures"/>
+                        <Label Text="pictures"/>
+                    </StackLayout>
                 </StackLayout>
-                <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="Black"/>
-                <StackLayout Background="white">
-                    <Label Text="pictures"/>
-                    <Label Text="pictures"/>
-                    <Label Text="pictures"/>
-                    <Label Text="pictures"/>
-                </StackLayout>
-                <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="Black"/>
-                <StackLayout Background="white">
-                    <Label Text="pictures"/>
-                    <Label Text="pictures"/>
-                    <Label Text="pictures"/>
-                    <Label Text="pictures"/>
-                </StackLayout>
-                <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="Black"/>
-                <StackLayout Background="white">
-                    <Label Text="pictures"/>
-                    <Label Text="pictures"/>
-                    <Label Text="pictures"/>
-                    <Label Text="pictures"/>
-                </StackLayout>
-                <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="Black"/>
-                <StackLayout Background="white">
-                    <Label Text="pictures"/>
-                    <Label Text="pictures"/>
-                    <Label Text="pictures"/>
-                    <Label Text="pictures"/>
-                </StackLayout>
-                <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="Black"/>
-                <StackLayout Background="white">
-                    <Label Text="pictures"/>
-                    <Label Text="pictures"/>
-                    <Label Text="pictures"/>
-                    <Label Text="pictures"/>
-                </StackLayout>
-                <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="Black"/>
-                <StackLayout Background="white">
-                    <Label Text="pictures"/>
-                    <Label Text="pictures"/>
-                    <Label Text="pictures"/>
-                    <Label Text="pictures"/>
-                </StackLayout>
-                <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="Black"/>
-                <StackLayout Background="white">
-                    <Label Text="pictures"/>
-                    <Label Text="pictures"/>
-                    <Label Text="pictures"/>
-                    <Label Text="pictures"/>
-                </StackLayout>
-                <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="Black"/>
-                <StackLayout Background="white">
-                    <Label Text="pictures"/>
-                    <Label Text="pictures"/>
-                    <Label Text="pictures"/>
-                    <Label Text="pictures"/>
-                </StackLayout>
-                <Label Text="smth label with data" FontAttributes="Bold" FontSize="15" TextColor="Black"/>
-                <StackLayout Background="white">
-                    <Label Text="pictures"/>
-                    <Label Text="pictures"/>
-                    <Label Text="pictures"/>
-                    <Label Text="pictures"/>
-                </StackLayout>
+            </ScrollView>
+            <StackLayout BackgroundColor="#FF383838" Padding="5">
+                <Button Clicked="ButtonAddImage" Text="прикрепить изображение"  BackgroundColor="#FF0070B5"/>
             </StackLayout>
-        </ScrollView>
+        </StackLayout>
     </ContentPage.Content>
 </ContentPage>

@@ -11,6 +11,9 @@ namespace TBmobile
             InitializeComponent();
 
             MainPage = new NavigationPage(new MainPage());
+            /*#FF0070B5
+            #FF383838
+            #1e1e1e*/
         }
 
         protected override void OnStart()

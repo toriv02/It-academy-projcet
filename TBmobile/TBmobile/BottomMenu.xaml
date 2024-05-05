@@ -2,10 +2,17 @@
 <TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
              xmlns:TBmonbile="clr-namespace:TBmobile"
-             x:Class="TBmobile.TabbedPage1" 
+             x:Class="TBmobile.TabbedPage1"
              xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core" 
-             android:TabbedPage.ToolbarPlacement="Bottom">
+             android:TabbedPage.ToolbarPlacement="Bottom"
+             BarBackgroundColor="#FF383838"
+             SelectedTabColor="#FF0070B5"
+             UnselectedTabColor="White">
+
     <!--Add icons-->
+    <!--Change colors icon-->
+    <!--Change load skrin-->
+    <!--Change desktop design-->
     <TabbedPage.Children>
         <TBmonbile:FilePage Title="Файлы"/>
         <TBmonbile:PicturePage Title="Картинки"/>

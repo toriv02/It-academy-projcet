@@ -17,3 +17,4 @@ C:\Users\Admin\Desktop\TBmobile\TBmobile\TBmobile\obj\Debug\netstandard2.0\Botto
 C:\Users\Admin\Desktop\TBmobile\TBmobile\TBmobile\obj\Debug\netstandard2.0\FilePage.xaml.g.cs
 C:\Users\Admin\Desktop\TBmobile\TBmobile\TBmobile\obj\Debug\netstandard2.0\PicturePage.xaml.g.cs
 C:\Users\Admin\Desktop\TBmobile\TBmobile\TBmobile\obj\Debug\netstandard2.0\TextPage.xaml.g.cs
+C:\Users\Admin\Desktop\TBmobile\TBmobile\TBmobile\obj\Debug\netstandard2.0\TBmobile.sourcelink.json
